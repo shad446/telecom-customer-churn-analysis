@@ -1,4 +1,4 @@
-streamlit
+ glob
 pandas
-plotly==6.3.1
- 
+streamlit 
+ plotly.express 
